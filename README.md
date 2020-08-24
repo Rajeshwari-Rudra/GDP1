@@ -19,7 +19,7 @@ This game is similar to that of treasure hunt. We will take certain area into co
 - Northwest Missouri State University
 
 # Jira Project Link Of Proposal Document
-https://gdp01.atlassian.net/secure/RapidBoard.jspa?rapidView=1&projectKey=GH&selectedIssue=GH-6
+[Jira Project Link](https://gdp01.atlassian.net/secure/RapidBoard.jspa?rapidView=1&projectKey=GH&selectedIssue=GH-6)
 
 # RFP-HUNT GAME
 
