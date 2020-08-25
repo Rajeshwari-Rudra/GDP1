@@ -50,8 +50,9 @@ The main purpose of this treasure hunt game is to develop physical and mental fi
 - A person who can able to fetch all the information about the app.
 
 #### Drawbacks that can occur
-- When an internet or mobile data is unavailable then we can assume that the location can be traced by satellite.
+- When internet or mobile data is unavailable then the location of the player cannot be traced.
 - A Player can not play the game without registration and here the assumption is "Player is accepting all the terms and conditions".
+- Score for each task is determined based on reaching the location or marked place within stipulated time.And for groups the score is determined based on the whole performance of individual members.
 
 
 
