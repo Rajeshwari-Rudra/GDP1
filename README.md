@@ -32,6 +32,9 @@ The main purpose of this treasure hunt game is to develop physical and mental fi
 
 - A player would enact one of the areas in the mission. To score that area, the client must enter the geographic territory (as controlled by their cell phone). Areas might be expressly distinguished (simpler) - or depicted utilizing hints (more diligently). The mission may expect areas to be gotten to in a particular request - or in any request as indicated by the journey maker.
 
+## ER Diagram:
+  ER Diagram for this game consists of various entities like Team,User,Player,competition,Quest,Location.Each user may be part of any number of teams and participate in many competitions.
+  
 #### Administrator Responsibilities
 A person who can authenticate and can authorize regarding this app.
 
