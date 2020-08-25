@@ -49,5 +49,9 @@ The main purpose of this treasure hunt game is to develop physical and mental fi
 #### Role of a User 
 - A person who can able to fetch all the information about the app.
 
+#### Drawbacks that can occur
+- When an internet or mobile data is unavailable then we can assume that the location can be traced by satellite.
+- A Player can not play the game without registration and here the assumption is "Player is accepting all the terms and conditions".
+
 
 
