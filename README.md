@@ -38,12 +38,16 @@ The main purpose of this treasure hunt game is to develop physical and mental fi
 ## ER Diagram:
  ER Diagram for this game consists of various entities like Team,User,Player,competition,Quest,Location.
  * Each user may be part of any number of teams and participate in many competitions.
+ * A Team may or may not have Players and even Player can or can not be a part of team.
+ * Competition can be independent of Team and Team can also be a independent of Competition.
+ * Quest can contain zero or many locations,Location can contain optional quests.
  
   
 #### Administrator Responsibilities
-A person who can authenticate and can authorize regarding this app.
+- A person who can authenticate and can authorize regarding this app.
 
 #### Role of a User 
-A person who can fetch all the information about the app.
+- A person who can able to fetch all the information about the app.
+
 
 
