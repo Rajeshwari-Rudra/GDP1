@@ -31,3 +31,9 @@ The main purpose of this treasure hunt game is to develop physical and mental fi
 - We might want to make an application that can be played on a cell phone. The application would urge players to finish a 'mission' by experiencing a particular rundown of areas. 
 
 - A player would enact one of the areas in the mission. To score that area, the client must enter the geographic territory (as controlled by their cell phone). Areas might be expressly distinguished (simpler) - or depicted utilizing hints (more diligently). The mission may expect areas to be gotten to in a particular request - or in any request as indicated by the journey maker.
+
+#### Administrator Responsibilities
+A person who can authenticate and can authorize regarding this app.
+
+#### Role of a User 
+A person who can fetch all the information of app.
