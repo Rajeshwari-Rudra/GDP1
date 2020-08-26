@@ -91,9 +91,9 @@ The main purpose of this treasure hunt game is to develop physical and mental fi
 - A person who can able to fetch all the information about the app.
 
 # Development Details
-- It could take Three developers to build the app and delivers the functionality. 
-- Developers has been divided the tasks among them. Code reviews, developer testing, and bug fixes are carrying out simultaneously with coding.
-- We have one backend devloper and UI design architecture.
+- It will take six developers to build the app and deliver the functionality. 
+- Developers have been divided the tasks among them. Code reviews, developer testing, and bug fixes are carrying out simultaneously with coding.
+- We have one backend devloper, UI design architect and a QA analyst
 
 # App Screens
 ![FirstScreen](AppImages/FirstPage.png)
