@@ -119,6 +119,7 @@ The main purpose of this treasure hunt game is to develop physical and mental fi
 - As Chandu, I want to organize my work by providing exquisite sketches for the app on how it resembles.
 - As Vishal, I would like to create the back-end database by implementing entity-relationship, the backbone of   the app.
 - As Puneeth, I would work on the schedule management.
+- As  Rohith, I would work on risks and assumptions.
 
 # Module 2:
 - The manager creates a budget schedule based on the roles of the developer.
