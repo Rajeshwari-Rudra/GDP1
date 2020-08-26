@@ -71,6 +71,12 @@ The main purpose of this treasure hunt game is to develop physical and mental fi
 # Role of a User 
 - A person who can able to fetch all the information about the app.
 
+# Cost Estimation For the Project
+![Cost Estimation](Images/CostEstimate.PNG)
+
+# Shedule Management For the Project
+![Schedule Management](Images/ScheduleManagement.PNG)
+
 # Drawbacks that can occur
 
 - When internet or mobile data is unavailable then the location of the player cannot be traced.
