@@ -57,7 +57,7 @@ The main purpose of this treasure hunt game is to develop physical and mental fi
 
 ## ER Diagram:
 
- ![ER Diagram](Images/FinalERDiagram.png)
+ ![ER Diagram](https://github.com/Rajeshwari-Rudra/GDP1/blob/master/Images/ERDiagramFinal.png)
  ER Diagram for this game consists of various entities like Team,User,Player,competition,Quest,Location.
  * Each user may be part of any number of teams and participate in many competitions.
  * A Team may or may not have Players and even Player can or can not be a part of team.
