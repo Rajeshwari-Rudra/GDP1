@@ -90,8 +90,8 @@ The main purpose of this treasure hunt game is to develop physical and mental fi
 # Role of a User 
 - A person who can able to fetch all the information about the app.
 
-# Developement Details
-- It could take Three developers to build the app and delivers the fucntionality. 
+# Development Details
+- It could take Three developers to build the app and delivers the functionality. 
 - Developers has been divided the tasks among them. Code reviews, developer testing, and bug fixes are carrying out simultaneously with coding.
 - We have one backend devloper and UI design architecture.
 
