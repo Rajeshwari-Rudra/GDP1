@@ -95,6 +95,13 @@ The main purpose of this treasure hunt game is to develop physical and mental fi
 - Developers has been divided the tasks among them. Code reviews, developer testing, and bug fixes are carrying out simultaneously with coding.
 - We have one backend devloper and UI design architecture.
 
+# App Screens
+![First Screen](AppImages/FirstPage.png)
+![Sign-In Screen](AppImages/SignIn.png)
+![Log-in Screen](AppImages/Login.png)
+![Admin Screen](AppImages/AdminScreen.png)
+![Map Screen](AppImages/Map.png)
+
 # Cost Estimation For the Project
 ![Cost Estimation](Images/CostEstimate.PNG)
 
