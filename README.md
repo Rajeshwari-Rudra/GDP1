@@ -26,6 +26,9 @@ We would like to create an app that can be played on a mobile device. The app wo
 # Jira Project Link Of Proposal Document
 [Jira Project Link](https://gdp01.atlassian.net/secure/RapidBoard.jspa?rapidView=1&projectKey=GH&selectedIssue=GH-6)
 
+# Sprint1 in Jira of Lost Treasure app
+
+
 # Given Tasks
 [Request for Proposal Document](https://github.com/denisecase/rfp-hunt/blob/master/rfp-hunt.md)
 
