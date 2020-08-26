@@ -112,10 +112,10 @@ The main purpose of this treasure hunt game is to develop physical and mental fi
 ![MapScreen](AppImages/Map.png)
 
 # Cost Estimation For the Project
-![Cost Estimation](Images/CostEstimate.PNG)
+![CostEstimation](Images/CostEstimate.PNG)
 
 # Shedule Management For the Project
-![Schedule Management](Images/ScheduleManagement.PNG)
+![ScheduleManagement](Images/ScheduleManagement.PNG)
 
 # Drawbacks that can occur
 
