@@ -28,10 +28,15 @@ We would like to create an app that can be played on a mobile device. The app wo
 
 # Sprints in Jira of Lost Treasure app
 User stories
+### Sprint1
 
 ![Sprint 1](Sprint1.png)
 
+### Sprint2
+
 ![Sprint 2](Sprint2.png)
+
+### Sprint3
 
 ![Sprint 3](Sprint3.png)
 
