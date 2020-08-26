@@ -113,20 +113,28 @@ The main purpose of this treasure hunt game is to develop physical and mental fi
 
 
 # User Stories
-# Module 1:
-- As Rajeshwari, I would like to invite my team members to know the blueprints of the businesses. 
+# Sprint 1:
+- As a user, a gamer can signup with their email id and play.
+- As a team, They can invite the team members, and the person who asked will be the captain.
+- As a user, a gamer can select if he can play single, duo, or four members.
+- As a team, the schedule for the project is to be planned for the application.
+- As a team, we need to create a proposal document for gaming.
 - As Raju, I would like to write a description of the app criteria and information.
 - As Chandu, I want to organize my work by providing exquisite sketches for the app on how it resembles.
-- As Vishal, I would like to create the back-end database by implementing entity-relationship, the backbone of   the app.
+- As Vishal, I would like to create the back-end database by implementing entity-relationship, the backbone of the app.
 - As Puneeth, I would work on the schedule management.
 - As  Rohith, I would work on risks and assumptions.
 
-# Module 2:
+# Sprint 2:
 - The manager creates a budget schedule based on the roles of the developer.
 - Acceptance criteria are the principal subject for end-user in which the game scheme.
+- As a user, a gamer can check his level and statistics based on the previous performance.
+- As a user, a gamer can exit the game at any point in time and cannot resume at the same moment.
 
-# Module3:
-- QA analysts and developers are ready to deploy the app and test for bugs and expand to production.
+# Sprint 3:
+- The team will check if all the criteria are successfully be satisfied mentioned in previous sprints. 
+- QA analysts and developers are ready to deploy the app and test bugs and expand to production.
+
 
 
 # App Screens
