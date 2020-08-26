@@ -123,5 +123,6 @@ The main purpose of this treasure hunt game is to develop physical and mental fi
 - A Player can not play the game without registration and here the assumption is "Player is accepting all the terms and conditions".
 - Score for each task is determined based on reaching the location or marked place within stipulated time.And for groups the score is determined based on the whole performance of individual members.
 
-
+# Player Won:
+Within stipulated player who scores maximum points is less time is considered to be winner.This can be concluded from the sample data entered into player entity.
 
