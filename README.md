@@ -104,6 +104,30 @@ The main purpose of this treasure hunt game is to develop physical and mental fi
 - Developers have been divided the tasks among them. Code reviews, developer testing, and bug fixes are carrying out simultaneously with coding.
 - We have one backend devloper, UI design architect and a QA analyst
 
+# User Aceptance Criteria
+- A player or a user need to enter all the mandatory feilds in the app for signing up the app for the first time.
+- While logging into an existing account a player must and should enter all the text-feilds such as email and password.
+- If a player doesn't play a game for more than 15 mins then his/her account will be auto-logged out from app or browser.
+- This app is a responsive design which works on all the devices like Android mobile or ios,ipad,laptop or desktop.
+- If a player forgot his/her password then that person can reset the password by entering the email-id after clicking on forgot password.
+
+
+# User Stories
+# Module 1:
+- As Rajeshwari, I would like to invite my team members to know the blueprints of the businesses. 
+- As Raju, I would like to write a description of the app criteria and information.
+- As Chandu, I want to organize my work by providing exquisite sketches for the app on how it resembles.
+- As Vishal, I would like to create the back-end database by implementing entity-relationship, the backbone of   the app.
+- As Puneeth, I would work on the schedule management.
+
+# Module 2:
+- The manager creates a budget schedule based on the roles of the developer.
+- Acceptance criteria are the principal subject for end-user in which the game scheme.
+
+# Module3:
+- QA analysts and developers are ready to deploy the app and test for bugs and expand to production.
+
+
 # App Screens
 ![FirstScreen](AppImages/FirstPage.png)
 ![Sign-upScreen](AppImages/Register.png)
