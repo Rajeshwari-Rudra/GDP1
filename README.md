@@ -26,10 +26,19 @@ We would like to create an app that can be played on a mobile device. The app wo
 # Jira Project Link Of Proposal Document
 [Jira Project Link](https://gdp01.atlassian.net/secure/RapidBoard.jspa?rapidView=1&projectKey=GH&selectedIssue=GH-6)
 
-# Sprint1 in Jira of Lost Treasure app
+# Sprints in Jira of Lost Treasure app
 User stories
+### Sprint1
 
 ![Sprint 1](Sprint1.png)
+
+### Sprint2
+
+![Sprint 2](Sprint2.png)
+
+### Sprint3
+
+![Sprint 3](Sprint3.png)
 
 
 # Given Tasks
@@ -48,7 +57,7 @@ The main purpose of this treasure hunt game is to develop physical and mental fi
 
 ## ER Diagram:
 
- ![ER Diagram](Images/FinalERDiagram.png)
+ ![ER Diagram](https://github.com/Rajeshwari-Rudra/GDP1/blob/master/Images/ERDiagramFinal.png)
  ER Diagram for this game consists of various entities like Team,User,Player,competition,Quest,Location.
  * Each user may be part of any number of teams and participate in many competitions.
  * A Team may or may not have Players and even Player can or can not be a part of team.
@@ -91,9 +100,9 @@ The main purpose of this treasure hunt game is to develop physical and mental fi
 - A person who can able to fetch all the information about the app.
 
 # Development Details
-- It could take Three developers to build the app and delivers the functionality. 
-- Developers has been divided the tasks among them. Code reviews, developer testing, and bug fixes are carrying out simultaneously with coding.
-- We have one backend devloper and UI design architecture.
+- It will take six developers to build the app and deliver the functionality. 
+- Developers have been divided the tasks among them. Code reviews, developer testing, and bug fixes are carrying out simultaneously with coding.
+- We have one backend devloper, UI design architect and a QA analyst
 
 # App Screens
 ![FirstScreen](AppImages/FirstPage.png)
@@ -114,5 +123,6 @@ The main purpose of this treasure hunt game is to develop physical and mental fi
 - A Player can not play the game without registration and here the assumption is "Player is accepting all the terms and conditions".
 - Score for each task is determined based on reaching the location or marked place within stipulated time.And for groups the score is determined based on the whole performance of individual members.
 
-
+# Player Won:
+Within stipulated player who scores maximum points is less time is considered to be winner.This can be concluded from the sample data entered into player entity.
 
