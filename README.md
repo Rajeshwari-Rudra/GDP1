@@ -96,11 +96,11 @@ The main purpose of this treasure hunt game is to develop physical and mental fi
 - We have one backend devloper and UI design architecture.
 
 # App Screens
-![First Screen](AppImages/FirstPage.png)
-![Sign-up Screen](AppImages/Register.png)
-![Log-in Screen](AppImages/Login.png)
-![Admin Screen](AppImages/AdminScreen.png)
-![Map Screen](AppImages/Map.png)
+![FirstScreen](AppImages/FirstPage.png)
+![Sign-upScreen](AppImages/Register.png)
+![Log-InScreen](AppImages/Login.png)
+![AdminScreen](AppImages/AdminScreen.png)
+![MapScreen](AppImages/Map.png)
 
 # Cost Estimation For the Project
 ![Cost Estimation](Images/CostEstimate.PNG)
