@@ -59,13 +59,14 @@ The main purpose of this treasure hunt game is to develop physical and mental fi
 # Quest Entity:
    This entity consists of the following attributes QuestName,designer,datecreated and datelastaccesed. A quest can be created by the user and may provide with clues inorder to reach the location.
    
-#### Administrator Responsibilities
+# Administrator Responsibilities
 - A person who can authenticate and can authorize regarding this app.
 
-#### Role of a User 
+# Role of a User 
 - A person who can able to fetch all the information about the app.
 
-#### Drawbacks that can occur
+# Drawbacks that can occur
+
 - When internet or mobile data is unavailable then the location of the player cannot be traced.
 - A Player can not play the game without registration and here the assumption is "Player is accepting all the terms and conditions".
 - Score for each task is determined based on reaching the location or marked place within stipulated time.And for groups the score is determined based on the whole performance of individual members.
