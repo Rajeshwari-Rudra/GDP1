@@ -104,7 +104,7 @@ The main purpose of this treasure hunt game is to develop physical and mental fi
 - Developers have been divided the tasks among them. Code reviews, developer testing, and bug fixes are carrying out simultaneously with coding.
 - We have one backend devloper, UI design architect and a QA analyst.
 
-# User Stories
+# User Stories and Acceptance Criteria
 # Sprint 1:
 ## User story-1
 - As a user, a gamer can signup with their email id and play.
