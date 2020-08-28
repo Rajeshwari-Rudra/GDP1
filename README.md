@@ -27,7 +27,6 @@ We would like to create an app that can be played on a mobile device. The app wo
 [Jira Project Link](https://gdp01.atlassian.net/secure/RapidBoard.jspa?rapidView=1&projectKey=GH&selectedIssue=GH-6)
 
 # Sprints in Jira of Lost Treasure app
-User stories
 ### Sprint1
 
 ![Sprint 1](Sprint1.png)
