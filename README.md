@@ -26,21 +26,7 @@ We would like to create an app that can be played on a mobile device. The app wo
 # Jira Project Link Of Proposal Document
 [Jira Project Link](https://gdp01.atlassian.net/secure/RapidBoard.jspa?rapidView=1&projectKey=GH&selectedIssue=GH-6)
 
-# Sprints in Jira of Lost Treasure app
-### Sprint1
-
-![Sprint 1](Sprint1.png)
-
-### Sprint2
-
-![Sprint 2](Sprint2.png)
-
-### Sprint3
-
-![Sprint 3](Sprint3.png)
-
-
-# Given Tasks
+# Assigned Tasks For Team
 [Request for Proposal Document](https://github.com/denisecase/rfp-hunt/blob/master/rfp-hunt.md)
 
 # RFP-HUNT GAME
@@ -153,7 +139,7 @@ The main purpose of this treasure hunt game is to develop physical and mental fi
 - As a team, they need to test the application and have to provide the bugs to the developers.
 ## Acceptance Criteria:
 - I(Puneeth) being the QA Analyst, I will take up this task and run all the tests to the application and provide the bugs and check the appliction to work it properly.
-## User story-11
+## User story-12
 - As a team, they need to deploy the app and expand to production.
 ## Acceptance Criteria:
 - I(Chandrakanth) will take up this task and with my team we will deploy the application and make sure it will work properly.
