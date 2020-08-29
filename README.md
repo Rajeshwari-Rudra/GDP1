@@ -23,8 +23,8 @@ We would like to create an app that can be played on a mobile device. The app wo
 - Dr. Charles Hoot
 - Northwest Missouri State University
 
-# Jira Project Link Of Proposal Document
-[Jira Project Link](https://gdp01.atlassian.net/secure/RapidBoard.jspa?rapidView=1&projectKey=GH&selectedIssue=GH-6)
+# Agile Project Link Of Proposal Document in Jira
+[Agile Project Link](https://gdp01.atlassian.net/jira/software/projects/AP/boards/3)
 
 # Assigned Tasks For Team
 [Request for Proposal Document](https://github.com/denisecase/rfp-hunt/blob/master/rfp-hunt.md)
