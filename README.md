@@ -116,7 +116,7 @@ The main purpose of this treasure hunt game is to develop physical and mental fi
 ## User story-3
 - As a user, a gamer can select if he can play single, duo, or four members.
 ## Acceptance Criteria:
-- I(Vishal) will take up this task and i will develop this application such that the user can have that option to play as a team, single or duo.
+- I(Vishal) as a frontend developer will take up this task and I will develop this application such that the registered user can have an options to play as a team, single or duo.
 ## User story-4
 - As a backend developer, I would like to create the database by implementing entity-relationship, the backbone of the app.
 ## Acceptance Criteria:
