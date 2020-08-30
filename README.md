@@ -24,7 +24,7 @@ We would like to create an app that can be played on a mobile device. The app wo
 - Northwest Missouri State University
 
 # Agile Project Link Of Proposal Document in Jira
-[Agile Project Link](https://gdp01.atlassian.net/jira/software/projects/AP/boards/3)
+[Agile Project Link](https://gdp01.atlassian.net/jira/software/projects/AP/boards/3/backlog)
 
 # Assigned Tasks For Team
 [Request for Proposal Document](https://github.com/denisecase/rfp-hunt/blob/master/rfp-hunt.md)
