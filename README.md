@@ -120,7 +120,7 @@ The main purpose of this treasure hunt game is to develop physical and mental fi
 ## User story-7
 - As a user, a gamer can check his level and statistics based on the previous performance.
 ## Acceptance Criteria:
-- I(Puneeth) will take up this task and I will make sure of storing the performances and statistics of the players.
+- I(Puneeth) will take on this role and I will make sure that the players' results and statistics are kept.
 ## User story-8
 - As a user, a gamer can exit the game at any point in time and cannot resume at the same moment.
 ## Acceptance Criteria:
@@ -138,7 +138,7 @@ The main purpose of this treasure hunt game is to develop physical and mental fi
 ## User story-11
 - As a team, they need to test the application and have to provide the bugs to the developers.
 ## Acceptance Criteria:
-- I(Puneeth) being the QA Analyst, I will take up this task and run all the tests to the application and provide the bugs and check the application to work it properly.
+- I(Puneeth) being the QA Analyst, I 'm going to take on this role and run all the tests on the application and provide the bugs and check the application for proper functioning.
 ## User story-12
 - As a team, they need to deploy the app and expand to production.
 ## Acceptance Criteria:
