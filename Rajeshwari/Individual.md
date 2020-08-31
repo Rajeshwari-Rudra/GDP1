@@ -13,11 +13,11 @@ Our team consists of 6 members,where each team member has their individual roles
 
 ## Half Day 1: 
 
-* Discussed with all the team members related to gaming-app and assigned each role and distributed the responsibilities to each member in our group.
+* I had a discussion with all the team members related to gaming-app and assigned each role and distributed the responsibilities to each member in our group.
 * In the early hours on this day,I have created a repository in Github and added all my team members as contributors.
      * [Repo Created](https://github.com/Rajeshwari-Rudra/GDP1/tree/6ceace582c1642ba8d4a858f42db31013bdb9d5e).
 
-* sent an invitation link to all the team members
+* I have sent an invitation link to all the team members
    * https://github.com/Rajeshwari-Rudra/GDP1/graphs/contributors
 * In the post lunch,we have analyzied the client's requirements according to that we have designed a suitable and cost-effective app.
 * We have concluded the app name as "LOST TREASURE" and finalized some UI sketches to address the client's need.
@@ -27,8 +27,8 @@ Our team consists of 6 members,where each team member has their individual roles
 
 * I have initiated my day by signing-up a new Jira account which helps us to plan and manage the tasks in this project easily.
 * Later on created a new project name "Game Hunt" then added all members of our group into it.
-* I have added ["Agile Project link of jira"](https://github.com/Rajeshwari-Rudra/GDP1/commit/e1c44c1cf81a45bfc10c6e1b2a035e62eb59e57b) in Markdown.
-* Developed a document of Request for proposal according to client:
+* Added ["Agile Project link of jira"](https://github.com/Rajeshwari-Rudra/GDP1/commit/e1c44c1cf81a45bfc10c6e1b2a035e62eb59e57b) in Markdown.
+* I have developed a document of Request for proposal according to client:
 
     * https://github.com/Rajeshwari-Rudra/GDP1/blob/master/README.md
              
@@ -52,7 +52,7 @@ Our team consists of 6 members,where each team member has their individual roles
    
   ## Half Day 3:
   
-  * In the early hours,divided some responsibilities,all possible methods and group roles for acceptance criteria checklist.
+  * In the early hours,I have divided some of the responsibilities and group roles for acceptance criteria checklist by all possible methods.
   
   * Edited the screenshots of Jira from Markdown file based on some completed tasks and in-progress and to-do list.
   
@@ -62,4 +62,5 @@ Our team consists of 6 members,where each team member has their individual roles
    
         * https://github.com/Rajeshwari-Rudra/GDP1/commit/e0ff9e5cc0ba4eadabfb2a80aab4154f1dd7e842
     
+   ! [AP BOARD](APBoard.png)
  
