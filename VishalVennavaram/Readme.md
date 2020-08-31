@@ -15,15 +15,26 @@
    - [ER Diagram](https://github.com/Rajeshwari-Rudra/GDP1/commit/8c13e1c3d2522fb26dbff6471985399fe5e206d1)
    
    Also on the Halfday1 I have made few changes to the Readme.md file.The following are the changes that I have made to the readme.md file.
-   - [Changes made to Readme](https://github.com/Rajeshwari-Rudra/GDP1/commit/686513d552d7522d56e441f6b585103a6bf94c5f)
-   - [Changes made to Readme](https://github.com/Rajeshwari-Rudra/GDP1/commit/314c148e9a9c39388436830b0a653a4396ccfa24)
+   
+   * (https://github.com/Rajeshwari-Rudra/GDP1/commit/686513d552d7522d56e441f6b585103a6bf94c5f)
+   * (https://github.com/Rajeshwari-Rudra/GDP1/commit/314c148e9a9c39388436830b0a653a4396ccfa24)
    
   ## Half Day 2:
   On this day I have started working on inserting sample data into excel file according to the entities described in the ER Diagram.For each entity I have created a separate excel sheet and entered the sample data into the individual sheets.
   
-- [sample data entered](https://github.com/Rajeshwari-Rudra/GDP1/commit/7bb3bace6b884c16843bd18dd679c42a238d4097)
+ - [sample data entered](https://github.com/Rajeshwari-Rudra/GDP1/commit/7bb3bace6b884c16843bd18dd679c42a238d4097)
 
     Also I have made few changes to ER Diagram and I have updated the Final ER Diagram, like the associative entities and also made few changes to entities.
     
-- [Updated ER Diagram](https://github.com/Rajeshwari-Rudra/GDP1/commit/8c13e1c3d2522fb26dbff6471985399fe5e206d1)
+ - [Updated ER Diagram](https://github.com/Rajeshwari-Rudra/GDP1/commit/8c13e1c3d2522fb26dbff6471985399fe5e206d1)
+
+During the HalfDay 2 I have description for each entity described in the ER Diagram and what all attributed does it contain.Also, I have made some changes to the sample data entered into the excel sheet.
+
+ - [Description for ER Diagram](https://github.com/Rajeshwari-Rudra/GDP1/commit/14153151f0a9f3114db1815974d4be2bb8265aab)
+ 
+ - [Updated Sample Data](https://github.com/Rajeshwari-Rudra/GDP1/commit/5c9101732fb3b9d4a9ac0ff97f0cdcbcccf2f32f)
+
+  ## Half Day 3:
+   On this day I have made few changes to the user stories.
+   - [Changes made to user stories](https://github.com/Rajeshwari-Rudra/GDP1/commit/40a05e5c7334403eaec655a58253f05cb8a42d35)
    
