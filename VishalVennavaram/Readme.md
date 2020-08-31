@@ -6,7 +6,11 @@
    - 08/26/2020 : Inperson
    - 08/28/2020 : Through zoom
    ## Half Day1:
-  On the first halfday we all started discussing about what we need to do as part of GDP1 and what all tasks do we need to complete during this semester.On the first half day our Team lead Rajeshwari Rudravaram had created a Github repository and added the remaining five members as collaborators through invitation link. Also our Team Lead has created a jira project and added all of us to the project. Jira helps us to assign tasks to each individual and to progress through the development from time to time. I started working on developing the ER Diagram as it is most important for any application to be developed.
+  On the first halfday we all started discussing about what we need to do as part of GDP1 and what all tasks do we need to complete during this semester.On the first half day our Team lead Rajeshwari Rudravaram had created a Github repository and added the remaining five members as collaborators through invitation link. 
+  
+  -[Github Invitation Link](https://github.com/Rajeshwari-Rudra/GDP1)
+  
+  Also our Team Lead has created a jira project and added all of us to the project. Jira helps us to assign tasks to each individual and to progress through the development from time to time. I started working on developing the ER Diagram as it is most important for any application to be developed.
   Before developing the ER Diagram for our project first we have few questions in our mind. These questions are like what all entities are to be included in the er diagram and what attributes does each entity contain.
       I have collected all the data that has to be inserted into the ER Diagram ,attributes like primary key,foreign key and cardinalities between the entities.
   
@@ -37,4 +41,5 @@ During the HalfDay 2 I have description for each entity described in the ER Diag
   ## Half Day 3:
    On this day I have made few changes to the user stories.
    - [Changes made to user stories](https://github.com/Rajeshwari-Rudra/GDP1/commit/40a05e5c7334403eaec655a58253f05cb8a42d35)
+   - []
    
