@@ -10,7 +10,12 @@
 | 8/28/2020 | Zoom               |
 
    ## Half Day1(4 hours):
-  On the first halfday we all started discussing about what we need to do as part of GDP1 and what all tasks do we need to complete during this semester.On the first half day our Team lead Rajeshwari Rudravaram had created a Github repository and added the remaining five members as collaborators through invitation link. 
+  On the first halfday we all started discussing about 
+  1.What we need to do as part of GDP1?
+  2.What all tasks do we need to complete during this semester?
+  3.What are the technologies required in order to build the application?
+  4.Which methodology has to be used ?
+  On the first half day our Team lead Rajeshwari Rudravaram had created a Github repository and added the remaining five members as collaborators through invitation link. 
   
   -[Github Invitation Link](https://github.com/Rajeshwari-Rudra/GDP1)
   
