@@ -63,4 +63,5 @@ Our team consists of 6 members,where each team member has their individual roles
         * https://github.com/Rajeshwari-Rudra/GDP1/commit/e0ff9e5cc0ba4eadabfb2a80aab4154f1dd7e842
     
    ![AP BOARD](APBoard.png)
- 
+   
+ * Checking the completion of tasks which were orgainized and assigned to team members by managing them and handling all the issues related to this project.
