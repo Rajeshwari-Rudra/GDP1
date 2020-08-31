@@ -1,5 +1,5 @@
 ## Module 1: Individual 1
-   This semester GDP1 is a combination of both inperson and through zoom meetings.I have attended the classes on the following days.
+   I am Vishal Reddy Vennavaram.I am student of GDP1 under Dr.Denise Case.In this GDP1 we are going to build an application with a team consisting of 6 members.Our client is Dr.Denise Case and our consultant is Dr.Charles Hoot.This semester GDP1 is a combination of both inperson and through zoom meetings.I have attended the classes on the following days.
    - 08/19/2020 : Through zoom
    - 08/21/2020 : Inperson
    - 08/24/2020 : Through zoom
