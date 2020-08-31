@@ -1,10 +1,14 @@
 ## Module 1: Individual 1
    I am Vishal Reddy Vennavaram.I am student of GDP1 under Dr.Denise Case.In this GDP1 we are going to build an application with a team consisting of 6 members.Our client is Dr.Denise Case and our consultant is Dr.Charles Hoot.This semester GDP1 is a combination of both inperson and through zoom meetings.I have attended the classes on the following days.
-   - 08/19/2020 : Through zoom
-   - 08/21/2020 : Inperson
-   - 08/24/2020 : Through zoom
-   - 08/26/2020 : Inperson
-   - 08/28/2020 : Through zoom
+ 
+   | Date      | Mode of class         |
+|-----------|--------------------|
+| 8/19/2020 | Class Cancelled    |
+| 8/21/2020 | InPerson           |
+| 8/24/2020 | Zoom               |
+| 8/26/2020 | InPerson           |
+| 8/28/2020 | InPerson           |
+
    ## Half Day1(4 hours):
   On the first halfday we all started discussing about what we need to do as part of GDP1 and what all tasks do we need to complete during this semester.On the first half day our Team lead Rajeshwari Rudravaram had created a Github repository and added the remaining five members as collaborators through invitation link. 
   
