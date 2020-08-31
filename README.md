@@ -93,10 +93,11 @@ The main purpose of this treasure hunt game is to develop physical and mental fi
 # Sprint 1:
 ## User story-1
 - As a user, a gamer can signup with their email id and play.
+- As a user, a gamer can reset the password if he forgot the login password.
 ## Acceptance Criteria:
 - This game is designed for the northwest college students and I(Rohith) will take up the task to make sure that everyone with valid email can singup for this game.
 ## User story-2
-- As a user, They can invite the team members, and the person who asked will be the captain.
+- As a user, a player can invite the team members, and the person who invited others members will servce as captain.
 ## Acceptance Criteria:
 - I(Raju) will take this task and make sure that the user can create a team and they can invite other users to join with them and they can be the team captain.
 ## User story-3
