@@ -3,7 +3,7 @@
  
    | Date      | Mode of class         |
 |-----------|--------------------|
-| 8/19/2020 | Class Cancelled    |
+| 8/19/2020 | Zoom               |
 | 8/21/2020 | InPerson           |
 | 8/24/2020 | Zoom               |
 | 8/26/2020 | InPerson           |
