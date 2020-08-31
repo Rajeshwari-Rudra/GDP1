@@ -17,6 +17,7 @@
   Also, as the Readme.md is the file where we will describe the statement of purpose for our project and also the user stories, acceptance criteria of our application.I have made some changes to the readme.md file on the HalfDay 1. 
       
    - [ER Diagram](https://github.com/Rajeshwari-Rudra/GDP1/commit/8c13e1c3d2522fb26dbff6471985399fe5e206d1)
+   * (https://github.com/Rajeshwari-Rudra/GDP1/commit/d2aec689ed6c513af980553d12780a61348d5960) 
    
    Also on the Halfday1 I have made few changes to the Readme.md file.The following are the changes that I have made to the readme.md file.Also I have updated the statement of purpose.
    * (https://github.com/Rajeshwari-Rudra/GDP1/commit/64fa5dbbe82cce34fc9c28473c9b40ce4e4c04b6)
