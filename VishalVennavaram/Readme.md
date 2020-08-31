@@ -7,7 +7,7 @@
 | 8/21/2020 | InPerson           |
 | 8/24/2020 | Zoom               |
 | 8/26/2020 | InPerson           |
-| 8/28/2020 | InPerson           |
+| 8/28/2020 | Zoom               |
 
    ## Half Day1(4 hours):
   On the first halfday we all started discussing about what we need to do as part of GDP1 and what all tasks do we need to complete during this semester.On the first half day our Team lead Rajeshwari Rudravaram had created a Github repository and added the remaining five members as collaborators through invitation link. 
