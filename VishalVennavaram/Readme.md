@@ -11,6 +11,7 @@
 
    ## Half Day1(4 hours):
   On the first halfday we all started discussing about 
+  
   1.What we need to do as part of GDP1?
   
   2.What all tasks do we need to complete during this semester?
