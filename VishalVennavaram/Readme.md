@@ -33,8 +33,9 @@
     
  - [Updated ER Diagram](https://github.com/Rajeshwari-Rudra/GDP1/commit/8c13e1c3d2522fb26dbff6471985399fe5e206d1)
 
-During the HalfDay 2 I have description for each entity described in the ER Diagram and what all attributed does it contain.Also, I have made some changes to the sample data entered into the excel sheet.
+During the HalfDay 2 I have description for each entity described in the ER Diagram and what all attributed does it contain.Also, I have made some changes to the readme file and also to the sample data entered into the excel sheet.
 
+   * (https://github.com/Rajeshwari-Rudra/GDP1/commit/28e27f25a96fe411d4753c154e29cb1754471fc3)
  - [Description for ER Diagram](https://github.com/Rajeshwari-Rudra/GDP1/commit/14153151f0a9f3114db1815974d4be2bb8265aab)
  
  - [Updated Sample Data](https://github.com/Rajeshwari-Rudra/GDP1/commit/5c9101732fb3b9d4a9ac0ff97f0cdcbcccf2f32f)
