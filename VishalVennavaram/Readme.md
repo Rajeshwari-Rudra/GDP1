@@ -18,8 +18,8 @@
       
    - [ER Diagram](https://github.com/Rajeshwari-Rudra/GDP1/commit/8c13e1c3d2522fb26dbff6471985399fe5e206d1)
    
-   Also on the Halfday1 I have made few changes to the Readme.md file.The following are the changes that I have made to the readme.md file.
-   
+   Also on the Halfday1 I have made few changes to the Readme.md file.The following are the changes that I have made to the readme.md file.Also I have updated the statement of purpose.
+   * (https://github.com/Rajeshwari-Rudra/GDP1/commit/64fa5dbbe82cce34fc9c28473c9b40ce4e4c04b6)
    * (https://github.com/Rajeshwari-Rudra/GDP1/commit/686513d552d7522d56e441f6b585103a6bf94c5f)
    * (https://github.com/Rajeshwari-Rudra/GDP1/commit/314c148e9a9c39388436830b0a653a4396ccfa24)
    
@@ -41,5 +41,6 @@ During the HalfDay 2 I have description for each entity described in the ER Diag
   ## Half Day 3:
    On this day I have made few changes to the user stories.
    - [Changes made to user stories](https://github.com/Rajeshwari-Rudra/GDP1/commit/40a05e5c7334403eaec655a58253f05cb8a42d35)
-   - []
+   - Also, I have made some changes to the sample data entered into the excel sheet.
+  * ( https://github.com/Rajeshwari-Rudra/GDP1/commit/eae78336269061ed1332d36fb0a1de11d425d298)
    
