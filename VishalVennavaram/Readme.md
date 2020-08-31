@@ -41,6 +41,8 @@ During the HalfDay 2 I have description for each entity described in the ER Diag
   ## Half Day 3:
    On this day I have made few changes to the user stories.
    - [Changes made to user stories](https://github.com/Rajeshwari-Rudra/GDP1/commit/40a05e5c7334403eaec655a58253f05cb8a42d35)
-   - Also, I have made some changes to the sample data entered into the excel sheet.
-  * ( https://github.com/Rajeshwari-Rudra/GDP1/commit/eae78336269061ed1332d36fb0a1de11d425d298)
+   - Also, I have made some changes to the sample data entered into the excel sheet. 
+   * ( https://github.com/Rajeshwari-Rudra/GDP1/commit/eae78336269061ed1332d36fb0a1de11d425d298)
+   We have discussed and sent an email to our client Dr.Charles Hoot about the client  presentation that is going to be held on September 4th 2020. We have started working on the presentation to be given in the presence of our client.
+  
    
