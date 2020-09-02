@@ -95,15 +95,15 @@ The main purpose of this treasure hunt game is to develop physical and mental fi
 - As a user, a gamer can signup with their email id and they can get into the main game screen.
 - As a user, a gamer can reset the password if he forgot the login password.
 ## Acceptance Criteria:
-- This game is designed for the northwest college students and I(Rohith) will take up the task to make sure that everyone with valid email and password can singup for this game.
+- This game is designed for the northwest college students and I(Rohith) will take up the task to make sure that everyone with valid email can sign up for this game and also with the username if he/she has already signed up for this game.
 ## User story-2
-- As a user, a player can invite the team members, and the person who invited others members will servce as captain.
+- As a user, a player can invite the team members, and the person who invited others members will serve as captain.
 ## Acceptance Criteria:
-- I(Raju) will take this task and make sure that the user can create a team and they can invite other users to join with them and they can be the team captain.
+- I(Raju) will take this task and make sure that the user can create a team and they can login with registered names, also they can invite other users to join with them and they can be the team captain.
 ## User story-3
 - As a user, a gamer can select if he can play single, duo, or four members.
 ## Acceptance Criteria:
-- I(Raju) as a frontend developer will take up this task and I will develop this application such that the registered user can have an options to play as a team, single or duo.
+- I(Raju) as a frontend developer will take up this task and I will develop this application such that the registered user can have an options to play as a team and can invite players to the team if they wish to play in a team, also can play single or duo.
 ## User story-4
 - As a team, the schedule for the project is to be planned for the application.
 ## Acceptance Criteria:
