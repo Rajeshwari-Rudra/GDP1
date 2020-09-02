@@ -11,8 +11,8 @@ We would like to create an app that can be played on a mobile device. The app wo
 1. Puneeth Annam - QA Analyst
 1. Rohith Chittimalla - Senior Developer
 1. Chandrakanth Polisetty - UI Developer
-1. Nooka Raju Boddu - Backend Developer
-1. Vishal Reddy Vennavaram - Frontend Developer
+1. Nooka Raju Boddu - Frontend Developer
+1. Vishal Reddy Vennavaram - Backend Developer
 
 # Mentor/Client
 - Dr. Denise Case
