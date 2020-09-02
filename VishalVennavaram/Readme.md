@@ -1,12 +1,26 @@
 ## Module 1: Individual 1
-   I am Vishal Reddy Vennavaram.I am student of GDP1 under Dr.Denise Case.In this GDP1 we are going to build an application with a team consisting of 6 members.Our client is Dr.Denise Case and our consultant is Dr.Charles Hoot.This semester GDP1 is a combination of both inperson and through zoom meetings.I have attended the classes on the following days.
-   - 08/19/2020 : Through zoom
-   - 08/21/2020 : Inperson
-   - 08/24/2020 : Through zoom
-   - 08/26/2020 : Inperson
-   - 08/28/2020 : Through zoom
-   ## Half Day1:
-  On the first halfday we all started discussing about what we need to do as part of GDP1 and what all tasks do we need to complete during this semester.On the first half day our Team lead Rajeshwari Rudravaram had created a Github repository and added the remaining five members as collaborators through invitation link. 
+   I am Vishal Reddy Vennavaram.I am student of GDP1 under Dr.Denise Case.In this GDP1 we are going to build a treasure hunt game with a team consisting of 6 members.Our client is Dr.Denise Case and our consultant is Dr.Charles Hoot.This semester GDP1 is a combination of both inperson and through zoom meetings.I have attended the classes on the following days.
+ 
+   | Date      | Mode of class         |
+|-----------|--------------------|
+| 8/19/2020 | Zoom               |
+| 8/21/2020 | InPerson           |
+| 8/24/2020 | Zoom               |
+| 8/26/2020 | InPerson           |
+| 8/28/2020 | Zoom               |
+
+   ## Half Day1(4 hours):
+  On the first halfday we all started discussing about 
+  
+  1.What we need to do as part of GDP1?
+  
+  2.What all tasks do we need to complete during this semester?
+  
+  3.What are the technologies required in order to build the application?
+  
+  4.Which methodology has to be used ?
+  
+  On the first half day our Team lead Rajeshwari Rudravaram had created a Github repository and added the remaining five members as collaborators through invitation link. 
   
   -[Github Invitation Link](https://github.com/Rajeshwari-Rudra/GDP1)
   
@@ -24,7 +38,7 @@
    * (https://github.com/Rajeshwari-Rudra/GDP1/commit/686513d552d7522d56e441f6b585103a6bf94c5f)
    * (https://github.com/Rajeshwari-Rudra/GDP1/commit/314c148e9a9c39388436830b0a653a4396ccfa24)
    
-  ## Half Day 2:
+  ## Half Day 2(4 hours):
   On this day I have started working on inserting sample data into excel file according to the entities described in the ER Diagram.For each entity I have created a separate excel sheet and entered the sample data into the individual sheets.
   
  - [sample data entered](https://github.com/Rajeshwari-Rudra/GDP1/commit/7bb3bace6b884c16843bd18dd679c42a238d4097)
@@ -41,7 +55,7 @@ During the HalfDay 2 I have description for each entity described in the ER Diag
  
  - [Updated Sample Data](https://github.com/Rajeshwari-Rudra/GDP1/commit/5c9101732fb3b9d4a9ac0ff97f0cdcbcccf2f32f)
 
-  ## Half Day 3:
+  ## Half Day 3(4 hours):
    On this day I have made few changes to the user stories.
    - [Changes made to user stories](https://github.com/Rajeshwari-Rudra/GDP1/commit/40a05e5c7334403eaec655a58253f05cb8a42d35)
    - Also, I have made some changes to the sample data entered into the excel sheet. 

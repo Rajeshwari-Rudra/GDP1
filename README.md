@@ -11,8 +11,8 @@ We would like to create an app that can be played on a mobile device. The app wo
 1. Puneeth Annam - QA Analyst
 1. Rohith Chittimalla - Senior Developer
 1. Chandrakanth Polisetty - UI Developer
-1. Nooka Raju Boddu - Backend Developer
-1. Vishal Reddy Vennavaram - Frontend Developer
+1. Nooka Raju Boddu - Frontend Developer
+1. Vishal Reddy Vennavaram - Backend Developer
 
 # Mentor/Client
 - Dr. Denise Case
@@ -79,10 +79,10 @@ The main purpose of this treasure hunt game is to develop physical and mental fi
    
    
 # Administrator Responsibilities
-- A person who can authenticate and can authorize regarding this app.
+- The Role of a Administrator is to validate the upcoming features of app and checks whether further modification is necessary or not? If so,then Admin gives permissions to developers for further implementation of app.
 
 # Role of a User 
-- A person who can able to fetch all the information about the app.
+- A person who can able to access all the information,it can be related to different gaming levels in app i.e primary level ,intermediate level or advanced level or when a player plays the game,he/she can check their individual scores,clues,their current level in that game and can able to see the scores of other players as well to particate more attentively in competition.
 
 # Development Details
 - It will take six developers to build the app and deliver the functionality. 
@@ -92,10 +92,10 @@ The main purpose of this treasure hunt game is to develop physical and mental fi
 # User Stories and Acceptance Criteria
 # Sprint 1:
 ## User story-1
-- As a user, a gamer can signup with their email id and play.
+- As a user, a gamer can signup with their email id and they can get into the main game screen.
 - As a user, a gamer can reset the password if he forgot the login password.
 ## Acceptance Criteria:
-- This game is designed for the northwest college students and I(Rohith) will take up the task to make sure that everyone with valid email can singup for this game.
+- This game is designed for the northwest college students and I(Rohith) will take up the task to make sure that everyone with valid email and password can singup for this game.
 ## User story-2
 - As a user, a player can invite the team members, and the person who invited others members will servce as captain.
 ## Acceptance Criteria:
@@ -103,44 +103,40 @@ The main purpose of this treasure hunt game is to develop physical and mental fi
 ## User story-3
 - As a user, a gamer can select if he can play single, duo, or four members.
 ## Acceptance Criteria:
-- I(Vishal) as a frontend developer will take up this task and I will develop this application such that the registered user can have an options to play as a team, single or duo.
+- I(Raju) as a frontend developer will take up this task and I will develop this application such that the registered user can have an options to play as a team, single or duo.
 ## User story-4
-- As a backend developer, I would like to create the database by implementing entity-relationship, the backbone of the app.
-## Acceptance Criteria:
-- I(Raju) being a Backend Developer, all the data required for this application will be collected and implement accordingly.
-## User story-5
 - As a team, the schedule for the project is to be planned for the application.
 ## Acceptance Criteria:
 - I(Rajeshwari) being a Manager, had a meeting with all the team and scheduled was planned accordingly and which is due for presentation.
 
 # Sprint 2:
-## User story-6
+## User story-5
 - As a team, we need to work on risks and assumptions.
 ## Acceptance Criteria:
 - I(Rohith) being a Senior developer, will take this task and with my team will work on assumptions and risks.
-## User story-7
+## User story-6
 - As a user, a gamer can check his level and statistics based on the previous performance.
 ## Acceptance Criteria:
 - I(Puneeth) will take on this role and I will make sure that the players' results and statistics are kept.
-## User story-8
+## User story-7
 - As a user, a gamer can exit the game at any point in time and cannot resume at the same moment.
 ## Acceptance Criteria:
 - I(Vishal) will take this task and make sure of developing the application such that the user can have this option.
-## User story-9
+## User story-8
 - As a developer, I want to organize my work by providing exquisite sketches for the app on how it resembles.
 ## Acceptance Criteria:
 - I(Chandrakanth) being a UI Developer, will take this task and make sure of providing the sketches for the app as client needs it.
 
 # Sprint 3:
-## User story-10
+## User story-9
 - As a team, they will check if all the criteria are successfully be satisfied mentioned in previous sprints. 
 ## Acceptance Criteria:
 - I(Rajeshwari) being the Team Manager, I will check all the criteria and make sure everything is satisfied as mentioned in the previous sprints.
-## User story-11
+## User story-10
 - As a team, they need to test the application and have to provide the bugs to the developers.
 ## Acceptance Criteria:
 - I(Puneeth) being the QA Analyst, I 'm going to take on this role and run all the tests on the application and provide the bugs and check the application for proper functioning.
-## User story-12
+## User story-11
 - As a team, they need to deploy the app and expand to production.
 ## Acceptance Criteria:
 - I(Chandrakanth) will take up this task and with my team we will deploy the application and make sure it will work properly.
