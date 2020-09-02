@@ -42,7 +42,7 @@ The main purpose of this treasure hunt game is to develop physical and mental fi
 
 ## ER Diagram:
 
- ![ER Diagram](https://github.com/Rajeshwari-Rudra/GDP1/blob/master/Images/ERDiagramFinal.png)
+ ![ER Diagram](https://github.com/Rajeshwari-Rudra/GDP1/blob/master/Images/FinalERDiagram.png)
  ER Diagram for this game consists of various entities like Team,User,Player,competition,Quest,Location.
  * Each user may be part of any number of teams and participate in many competitions.
  * A Team may or may not have Players and even Player can or can not be a part of team.
@@ -92,10 +92,10 @@ The main purpose of this treasure hunt game is to develop physical and mental fi
 # User Stories and Acceptance Criteria
 # Sprint 1:
 ## User story-1
-- As a user, a gamer can signup with their email id and play.
+- As a user, a gamer can signup with their email id and they can get into the main game screen.
 - As a user, a gamer can reset the password if he forgot the login password.
 ## Acceptance Criteria:
-- This game is designed for the northwest college students and I(Rohith) will take up the task to make sure that everyone with valid email can singup for this game.
+- This game is designed for the northwest college students and I(Rohith) will take up the task to make sure that everyone with valid email and password can singup for this game.
 ## User story-2
 - As a user, a player can invite the team members, and the person who invited others members will servce as captain.
 ## Acceptance Criteria:
