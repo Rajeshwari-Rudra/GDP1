@@ -165,7 +165,7 @@ The main purpose of this treasure hunt game is to develop physical and mental fi
 
 # App Screens
 ![WelcomeScreen](AppImages/WelcomeScreen.png)
-![FirstScreen](AppImages/FirstPage.png)
+![FirstScreen](AppImages/FirstScreen.png)
 ![RegisterScreen](AppImages/RegisterScreen.png)
 ![Log-InScreen](AppImages/Login.png)
 ![AdminScreen](AppImages/AdminScreen.png)
