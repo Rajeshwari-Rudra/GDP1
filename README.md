@@ -169,5 +169,5 @@ The main purpose of this treasure hunt game is to develop physical and mental fi
 
 # Player Won:
 
-Within stipulated player who scores maximum points is less time is considered to be winner.This can be concluded from the sample data entered into player entity.
+Within the stipulated time player who scores maximum points while reaching maximum locations in less time is considered to be winner.This can be concluded from the sample data entered into player entity.
 
