@@ -106,12 +106,28 @@ The main purpose of this treasure hunt game is to develop physical and mental fi
 ## Acceptance Criteria:
 - I(Raju) as a frontend developer will take up this task and I will develop this application such that the registered user can have an options to play as a team and can invite players to the team if they wish to play in a team, also can play single or duo.
 ## User story-4
-- As a team, the schedule for the project is to be planned for the application.
+- As a user, the schedule for the project is to be planned for the application.
 ## Acceptance Criteria:
-- I(Rajeshwari) being a Manager, had a meeting with all the team and scheduled was planned accordingly and which is due for presentation.
+- I(Rajeshwari) being a Manager, had a meeting with all the team and schedule was planned accordingly and which is due for presentation.
+## USer story-5
+- As user, the cost estimation for completing the project is planned
+## User story-6
+- As a user, an admin can login and access the settings of the app.
+## User story-7
+- As a user, an admin can add/edit locations, add/edit quests and check the players stats.
 
 # Sprint 2:
-## User story-5
+## User story-8
+- As a user, a player can design a quest and provides the quest name.
+## User story-9 
+- As a user, a player can provide location number and location coordinates along with clues.
+## User story-10
+- As a user, after creating quest, an access code will be generated and team can join by using access code.
+## User story-11
+- As a user, a player can create a competition or choose exisiting quest for competition and he will be called as hunt master.
+## User story-12
+- As a user, a player can invite to competition a week before and each team captain can accept or reject invitation.
+## User story-13
 - As a team, we need to work on risks and assumptions.
 ## Acceptance Criteria:
 - I(Rohith) being a Senior developer, will take this task and with my team will work on assumptions and risks.
@@ -127,10 +143,7 @@ The main purpose of this treasure hunt game is to develop physical and mental fi
 - As a developer, I want to organize my work by providing exquisite sketches for the app on how it resembles.
 ## Acceptance Criteria:
 - I(Chandrakanth) being a UI Developer, will take this task and make sure of providing the sketches for the app as client needs it.
-## User story-9
-- A user can no more exit,if he doesn't participate for a longer peroid of time.
-## Acceptance Criteria:
-- I(Rajeshwari) act as a admin will take this task and make sure that there is no such data related to non-active players in this app.
+
 
 # Sprint 3:
 ## User story-10
