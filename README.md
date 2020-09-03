@@ -48,19 +48,20 @@ The main purpose of this treasure hunt game is to develop physical and mental fi
  * A Team must have one or more Players and even Player can or can not be a part of team.
  * Each Competition should have atleat one Team and Team can be an independent of Competition.
  * Quest must have one or more locations,Location can contain optional quests.
- The ER Diagram shown above consists of the following attributes.They are User,Team,Quest,Location,Competetion,Player,TeamPlayer,Location of Quest,TeamCompetition.
+ 
+ -The ER Diagram shown above consists of the following attributes: User,Team,Quest,Location,Competetion,Player,TeamPlayer,Location of Quest,TeamCompetition.
  
 ### User Entity:
-  The user entity consists of Username as primary key.The other attributes of user consists of Email,password,Datecreated,DateLastaccesed.A user has to register while entering into the game.A registered user may be a part of a single team or may be a part of multiple teams.
+  The user entity consists of Username as primary key and the other attributes of user consists of Email,password,Datecreated,DateLastaccesed.A user has to register while entering into the game.A registered user may be a part of a single team or may be a part of multiple teams.
  
 ### Team Entity:
-   The entity team has the following attributes.They are TeamID as the primary key.The other attributes of this entity are TeamName,Creator,Datecreated,DatelastEdited and the username as the foreign key.
+   The entity team has the following attributes: are TeamID as the primary key.The other attributes of this entity are TeamName,Creator,Datecreated,DatelastEdited and the username as the foreign key.
 
 ### Quest Entity:
    This entity consists of the following attributes QuestName,designer,datecreated and datelastaccesed. A quest can be created by the user and may provide with clues inorder to reach the location.
 
 ### Competition Entity:
-   The competition entity has the attributes as CompetitionID as the primary key. and competitionName,creator,datecreated,start and end date for the competition.The creator of the competition will specify the start and end time of the competition.
+   The competition entity has the attributes as CompetitionID as the primary key and competitionName,creator,datecreated,start and end date for the competition.The creator of the competition will specify the start and end time of the competition.
    
 ### Location Entity:
    Attributes of the location entity are Locationnumber, Locationclue, Locationcoordinates. Locationnumber is the primary key of the entity and location coordinates will help in determining the actual location of the hunt with the help of the location coordinates.
