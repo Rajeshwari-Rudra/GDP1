@@ -147,6 +147,9 @@ The main purpose of this treasure hunt game is to develop physical and mental fi
 - I(Chandrakanth) will take up this task and with my team we will deploy the application and make sure it will work properly.
 
 
+## Flow chart of the Application
+![Flow](Images/Flow.PNG)
+
 # App Screens
 ![WelcomeScreen](AppImages/WelcomeScreen.png)
 ![FirstScreen](AppImages/FirstPage.png)
