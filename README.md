@@ -189,6 +189,7 @@ The main purpose of this treasure hunt game is to develop physical and mental fi
 ![AdminScreen](AppImages/AdminScreen.png)
 ![MapScreen](AppImages/MapScreenUI.png)
 ![AdminPrivilegesScreen](AppImages/AdminPrivileges.png)
+![UserPrivilegesScreen](AppImages/UserPrivileges.png))
 
 # Cost Estimation For the Project
 ![CostEstimation](Images/CostEstimate.PNG)
