@@ -100,7 +100,7 @@ The main purpose of this treasure hunt game is to develop physical and mental fi
 ## User story-2
 - As a user, a player can invite the team members, and the person who invited others members will serve as captain.
 ## Acceptance Criteria:
-- I(Raju) will take this task and make sure that the user can create a team and they can login with registered names, also they can invite other users to join with them and they can be the team captain.
+- I(Chandrakanth) will take this task and make sure that the user can create a team and they can login with registered names, also they can invite other users to join with them and they can be the team captain.
 ## User story-3
 - As a user, a gamer can select if he can play single, duo, or four members.
 ## Acceptance Criteria:
@@ -110,23 +110,41 @@ The main purpose of this treasure hunt game is to develop physical and mental fi
 ## Acceptance Criteria:
 - I(Rajeshwari) being a Manager, had a meeting with all the team and schedule was planned accordingly and which is due for presentation.
 ## USer story-5
-- As user, the cost estimation for completing the project is planned
+- As user, the cost estimation for completing the project should be planned.
+## Acceptance Criteria:
+- I(Rohith) will take up this task and i will make an estimation which can be feasible to make the project.
 ## User story-6
 - As a user, an admin can login and access the settings of the app.
+## Acceptance Criteria:
+- I(Vishal) will take this task and make sure that admin can access these things in the application.
 ## User story-7
 - As a user, an admin can add/edit locations, add/edit quests and check the players stats.
+## Acceptance Criteria:
+- I(Puneeth) will take this task and make sure admin can access these steps in the application.
 
 # Sprint 2:
 ## User story-8
 - As a user, a player can design a quest and provides the quest name.
+## Acceptance Criteria:
+- I(Chandrakanth) will take this task make sure that the user can be able to make this quest.
 ## User story-9 
 - As a user, a player can provide location number and location coordinates along with clues.
+## Acceptance Criteria:
+- I(Vishal) will take up this task and will make sure to provide this option to the players.
 ## User story-10
 - As a user, after creating quest, an access code will be generated and team can join by using access code.
+## Acceptance Criteria:
+- I(Rohith) will take this task and i will make sure a team captain can genrate an access code and any player using that code can join in their team.
 ## User story-11
 - As a user, a player can create a competition or choose exisiting quest for competition and he will be called as hunt master.
+## Acceptance Criteria:
+- I(Rajeshwari) will take this task and we will keep this option in the application and player can create a competition or choosing the existing quest for competition.
 ## User story-12
 - As a user, a player can invite to competition a week before and each team captain can accept or reject invitation.
+## Acceptance Criteria:
+- I(Raju) will take this task and keep this option in the application and keep this for limited time so that the user can accept/ reject before starting of competition.
+
+# Sprint 3:
 ## User story-13
 - As a team, we need to work on risks and assumptions.
 ## Acceptance Criteria:
@@ -134,7 +152,7 @@ The main purpose of this treasure hunt game is to develop physical and mental fi
 ## User story-14
 - As a user, a gamer can check his level and statistics based on the previous performance.
 ## Acceptance Criteria:
-- I(Puneeth) will take on this role and I will make sure that the players' results and statistics are kept.
+- I(Puneeth) will take on this role and I will make sure that the players results and statistics are kept.
 ## User story-15
 - As a user, a gamer can exit the game at any point in time and cannot resume at the same moment.
 ## Acceptance Criteria:
@@ -145,7 +163,7 @@ The main purpose of this treasure hunt game is to develop physical and mental fi
 - I(Chandrakanth) being a UI Developer, will take this task and make sure of providing the sketches for the app as client needs it.
 
 
-# Sprint 3:
+# Sprint 4 (This will be scheduled for GDP2):
 ## User story-17
 - As a team, they will check if all the criteria are successfully be satisfied mentioned in previous sprints. 
 ## Acceptance Criteria:
@@ -157,7 +175,7 @@ The main purpose of this treasure hunt game is to develop physical and mental fi
 ## User story-19
 - As a team, they need to deploy the app and expand to production.
 ## Acceptance Criteria:
-- I(Chandrakanth) will take up this task and with my team we will deploy the application and make sure it will work properly.
+- I(Raju) will take up this task and with my team we will deploy the application and make sure it will work properly.
 
 
 ## Flow chart of the Application
