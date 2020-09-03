@@ -131,30 +131,30 @@ The main purpose of this treasure hunt game is to develop physical and mental fi
 - As a team, we need to work on risks and assumptions.
 ## Acceptance Criteria:
 - I(Rohith) being a Senior developer, will take this task and with my team will work on assumptions and risks.
-## User story-6
+## User story-14
 - As a user, a gamer can check his level and statistics based on the previous performance.
 ## Acceptance Criteria:
 - I(Puneeth) will take on this role and I will make sure that the players' results and statistics are kept.
-## User story-7
+## User story-15
 - As a user, a gamer can exit the game at any point in time and cannot resume at the same moment.
 ## Acceptance Criteria:
 - I(Vishal) will take this task and make sure of developing the application such that the user can have this option.
-## User story-8
+## User story-16
 - As a developer, I want to organize my work by providing exquisite sketches for the app on how it resembles.
 ## Acceptance Criteria:
 - I(Chandrakanth) being a UI Developer, will take this task and make sure of providing the sketches for the app as client needs it.
 
 
 # Sprint 3:
-## User story-10
+## User story-17
 - As a team, they will check if all the criteria are successfully be satisfied mentioned in previous sprints. 
 ## Acceptance Criteria:
 - I(Rajeshwari) being the Team Manager, I will check all the criteria and make sure everything is satisfied as mentioned in the previous sprints.
-## User story-11
+## User story-18
 - As a team, they need to test the application and have to provide the bugs to the developers.
 ## Acceptance Criteria:
 - I(Puneeth) being the QA Analyst, I 'm going to take on this role and run all the tests on the application and provide the bugs and check the application for proper functioning.
-## User story-12
+## User story-19
 - As a team, they need to deploy the app and expand to production.
 ## Acceptance Criteria:
 - I(Chandrakanth) will take up this task and with my team we will deploy the application and make sure it will work properly.
