@@ -42,7 +42,7 @@ The main purpose of this treasure hunt game is to develop physical and mental fi
 
 ## ER Diagram:
 
- ![ER Diagram](https://github.com/Rajeshwari-Rudra/GDP1/blob/master/Images/ERDiagramFinal.png)
+ ![ER Diagram](https://github.com/Rajeshwari-Rudra/GDP1/blob/master/Images/FinalERDiagram.png)
  ER Diagram for this game consists of various entities like Team,User,Player,competition,Quest,Location.
  * Each user may be part of any number of teams and participate in many competitions.
  * A Team may or may not have Players and even Player can or can not be a part of team.
@@ -95,15 +95,15 @@ The main purpose of this treasure hunt game is to develop physical and mental fi
 - As a user, a gamer can signup with their email id and they can get into the main game screen.
 - As a user, a gamer can reset the password if he forgot the login password.
 ## Acceptance Criteria:
-- This game is designed for the northwest college students and I(Rohith) will take up the task to make sure that everyone with valid email and password can singup for this game.
+- This game is designed for the northwest college students and I(Rohith) will take up the task to make sure that everyone with valid email can sign up for this game and also with the username if he/she has already signed up for this game.
 ## User story-2
-- As a user, a player can invite the team members, and the person who invited others members will servce as captain.
+- As a user, a player can invite the team members, and the person who invited others members will serve as captain.
 ## Acceptance Criteria:
-- I(Raju) will take this task and make sure that the user can create a team and they can invite other users to join with them and they can be the team captain.
+- I(Raju) will take this task and make sure that the user can create a team and they can login with registered names, also they can invite other users to join with them and they can be the team captain.
 ## User story-3
 - As a user, a gamer can select if he can play single, duo, or four members.
 ## Acceptance Criteria:
-- I(Raju) as a frontend developer will take up this task and I will develop this application such that the registered user can have an options to play as a team, single or duo.
+- I(Raju) as a frontend developer will take up this task and I will develop this application such that the registered user can have an options to play as a team and can invite players to the team if they wish to play in a team, also can play single or duo.
 ## User story-4
 - As a team, the schedule for the project is to be planned for the application.
 ## Acceptance Criteria:
@@ -126,17 +126,21 @@ The main purpose of this treasure hunt game is to develop physical and mental fi
 - As a developer, I want to organize my work by providing exquisite sketches for the app on how it resembles.
 ## Acceptance Criteria:
 - I(Chandrakanth) being a UI Developer, will take this task and make sure of providing the sketches for the app as client needs it.
+## User story-9
+- A user can no more exit,if he doesn't participate for a longer peroid of time.
+## Acceptance Criteria:
+- I(Rajeshwari) act as a admin will take this task and make sure that there is no such data related to non-active players in this app.
 
 # Sprint 3:
-## User story-9
+## User story-10
 - As a team, they will check if all the criteria are successfully be satisfied mentioned in previous sprints. 
 ## Acceptance Criteria:
 - I(Rajeshwari) being the Team Manager, I will check all the criteria and make sure everything is satisfied as mentioned in the previous sprints.
-## User story-10
+## User story-11
 - As a team, they need to test the application and have to provide the bugs to the developers.
 ## Acceptance Criteria:
 - I(Puneeth) being the QA Analyst, I 'm going to take on this role and run all the tests on the application and provide the bugs and check the application for proper functioning.
-## User story-11
+## User story-12
 - As a team, they need to deploy the app and expand to production.
 ## Acceptance Criteria:
 - I(Chandrakanth) will take up this task and with my team we will deploy the application and make sure it will work properly.
@@ -148,6 +152,7 @@ The main purpose of this treasure hunt game is to develop physical and mental fi
 ![Log-InScreen](AppImages/Login.png)
 ![AdminScreen](AppImages/AdminScreen.png)
 ![MapScreen](AppImages/Map.png)
+![AdminPrivilegesScreen](AppImages/AdminPrivileges.png)
 
 # Cost Estimation For the Project
 ![CostEstimation](Images/CostEstimate.PNG)
@@ -160,7 +165,9 @@ The main purpose of this treasure hunt game is to develop physical and mental fi
 - When internet or mobile data is unavailable then the location of the player cannot be traced.
 - A Player can not play the game without registration and here the assumption is "Player is accepting all the terms and conditions".
 - Score for each task is determined based on reaching the location or marked place within stipulated time.And for groups the score is determined based on the whole performance of individual members.
+- Managing the team while playing a game.
 
 # Player Won:
+
 Within stipulated player who scores maximum points is less time is considered to be winner.This can be concluded from the sample data entered into player entity.
 
