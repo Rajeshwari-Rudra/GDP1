@@ -45,9 +45,9 @@ The main purpose of this treasure hunt game is to develop physical and mental fi
  ![ER Diagram](https://github.com/Rajeshwari-Rudra/GDP1/blob/master/Images/FinalERDiagram.png)
  ER Diagram for this game consists of various entities like Team,User,Player,competition,Quest,Location.
  * Each user may be part of any number of teams and participate in many competitions.
- * A Team may or may not have Players and even Player can or can not be a part of team.
- * Competition can be independent of Team and Team can also be a independent of Competition.
- * Quest can contain zero or many locations,Location can contain optional quests.
+ * A Team must have one or more Players and even Player can or can not be a part of team.
+ * Each Competition should have atleat one Team and Team can be an independent of Competition.
+ * Quest must have one or more locations,Location can contain optional quests.
  The ER Diagram shown above consists of the following attributes.They are User,Team,Quest,Location,Competetion,Player,TeamPlayer,Location of Quest,TeamCompetition.
  
 ### User Entity:
