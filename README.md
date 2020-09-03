@@ -126,17 +126,21 @@ The main purpose of this treasure hunt game is to develop physical and mental fi
 - As a developer, I want to organize my work by providing exquisite sketches for the app on how it resembles.
 ## Acceptance Criteria:
 - I(Chandrakanth) being a UI Developer, will take this task and make sure of providing the sketches for the app as client needs it.
+## User story-9
+- A user can no more exit,if he doesn't participate for a longer peroid of time.
+## Acceptance Criteria:
+- I(Rajeshwari) act as a admin will take this task and make sure that there is no such data related to non-active players in this app.
 
 # Sprint 3:
-## User story-9
+## User story-10
 - As a team, they will check if all the criteria are successfully be satisfied mentioned in previous sprints. 
 ## Acceptance Criteria:
 - I(Rajeshwari) being the Team Manager, I will check all the criteria and make sure everything is satisfied as mentioned in the previous sprints.
-## User story-10
+## User story-11
 - As a team, they need to test the application and have to provide the bugs to the developers.
 ## Acceptance Criteria:
 - I(Puneeth) being the QA Analyst, I 'm going to take on this role and run all the tests on the application and provide the bugs and check the application for proper functioning.
-## User story-11
+## User story-12
 - As a team, they need to deploy the app and expand to production.
 ## Acceptance Criteria:
 - I(Chandrakanth) will take up this task and with my team we will deploy the application and make sure it will work properly.
