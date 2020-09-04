@@ -26,6 +26,15 @@ We would like to create an app that can be played on a mobile device. The app wo
 # Agile Project Link Of Proposal Document in Jira
 [Agile Project Link](https://gdp01.atlassian.net/jira/software/projects/AP/boards/3/backlog)
 
+### Sprint 1
+![sprint1](Images/sprint1.PNG)
+
+### Sprint 2
+![sprint2](Images/sprint2.PNG)
+
+### Sprint 3
+![sprint3](Images/sprint3.PNG)
+
 # Assigned Tasks For Team
 [Request for Proposal Document](https://github.com/denisecase/rfp-hunt/blob/master/rfp-hunt.md)
 
