@@ -201,11 +201,13 @@ The main purpose of this treasure hunt game is to develop physical and mental fi
 ![AdminPrivilegesScreen](AppImages/AdminPrivileges.png)
 ![UserPrivilegesScreen](AppImages/UserPrivileges.png))
 
-# Cost Estimation For the Project
-![CostEstimation](Images/CostEstimate.PNG)
-
 # Shedule Management For the Project
+
 ![ScheduleManagement](Images/ScheduleManagement.PNG)
+
+# Cost Estimation For the Project
+
+![CostEstimation](Images/CostEstimate.PNG)
 
 - The required developers for this application is 6.
 - The team cost per hour is $340.
