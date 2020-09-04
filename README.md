@@ -202,11 +202,9 @@ The main purpose of this treasure hunt game is to develop physical and mental fi
 ![UserPrivilegesScreen](AppImages/UserPrivileges.png))
 
 # Shedule Management For the Project
-
 ![ScheduleManagement](Images/ScheduleManagement.PNG)
 
 # Cost Estimation For the Project
-
 ![CostEstimation](Images/CostEstimate.PNG)
 
 - The required developers for this application is 6.
