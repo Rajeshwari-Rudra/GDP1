@@ -90,6 +90,7 @@ The main purpose of this treasure hunt game is to develop physical and mental fi
    
 # Administrator Responsibilities
 - The Role of a Administrator is to validate the upcoming features of app and checks whether further modification is necessary or not? If so,then Admin gives permissions to developers for further implementation of app.
+- The administrator has access to setting of the application and he has ability to add/edit maps, add/edit quests and user stats.
 
 # Role of a User 
 - A person who can able to access all the information,it can be related to different gaming levels in app i.e primary level ,intermediate level or advanced level or when a player plays the game,he/she can check their individual scores,clues,their current level in that game and can able to see the scores of other players as well to particate more attentively in competition.
