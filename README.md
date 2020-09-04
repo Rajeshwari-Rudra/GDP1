@@ -207,6 +207,10 @@ The main purpose of this treasure hunt game is to develop physical and mental fi
 # Shedule Management For the Project
 ![ScheduleManagement](Images/ScheduleManagement.PNG)
 
+- The required developers for this application is 6.
+- The team cost per hour is $340.
+- The cost estimated to develop this project is $244,800.
+
 # Drawbacks that can occur
 
 - When internet or mobile data is unavailable then the location of the player cannot be traced.
