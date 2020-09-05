@@ -153,36 +153,43 @@ The main purpose of this treasure hunt game is to develop physical and mental fi
 - As a user, a player can invite to competition a week before and each team captain can accept or reject invitation.
 ## Acceptance Criteria:
 - I(Raju) will take this task and keep this option in the application and keep this for limited time so that the user can accept/ reject before starting of competition.
-
-# Sprint 3:
 ## User story-13
+- As a user,a player can check his/her leader-board position in gaming app.
+## Acceptance Criteria:
+- I(Rajeshwari) will handle this task and update the position of each player in leader-board based on his/her updated scores.
+## User story-14
+- As a user,a player can be active and doesn't participate in gaming app for a longer period of time then his/her account will be deleted automatically.
+## Acceptance Criteria:
+- I(Rajeshwari) will check and update this data from time-to-time.
+# Sprint 3:
+## User story-15
 - As a team, we need to work on risks and assumptions.
 ## Acceptance Criteria:
 - I(Rohith) being a Senior developer, will take this task and with my team will work on assumptions and risks.
-## User story-14
+## User story-16
 - As a user, a gamer can check his level and statistics based on the previous performance.
 ## Acceptance Criteria:
 - I(Puneeth) will take on this role and I will make sure that the players results and statistics are kept.
-## User story-15
+## User story-17
 - As a user, a gamer can exit the game at any point in time and cannot resume at the same moment.
 ## Acceptance Criteria:
 - I(Vishal) will take this task and make sure of developing the application such that the user can have this option.
-## User story-16
+## User story-18
 - As a developer, I want to organize my work by providing exquisite sketches for the app on how it resembles.
 ## Acceptance Criteria:
 - I(Chandrakanth) being a UI Developer, will take this task and make sure of providing the sketches for the app as client needs it.
 
 
 # Sprint 4 (This will be scheduled for GDP2):
-## User story-17
+## User story-19
 - As a team, they will check if all the criteria are successfully be satisfied mentioned in previous sprints. 
 ## Acceptance Criteria:
 - I(Rajeshwari) being the Team Manager, I will check all the criteria and make sure everything is satisfied as mentioned in the previous sprints.
-## User story-18
+## User story-20
 - As a team, they need to test the application and have to provide the bugs to the developers.
 ## Acceptance Criteria:
 - I(Puneeth) being the QA Analyst, I 'm going to take on this role and run all the tests on the application and provide the bugs and check the application for proper functioning.
-## User story-19
+## User story-21
 - As a team, they need to deploy the app and expand to production.
 ## Acceptance Criteria:
 - I(Raju) will take up this task and with my team we will deploy the application and make sure it will work properly.
