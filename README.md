@@ -201,6 +201,7 @@ The main purpose of this treasure hunt game is to develop physical and mental fi
 # App Screens:
    Welcome screen:
       This screen will have both options for Admin and user. Admin has all the previlages to access the settings  of the application.If the person clicks on user then it will ask for username and password.If the person is not registered then he has to sign up for the account.Here we also have the option on how to play.
+   
    Username Screen:
          This screen will have various options like username and password and confirm password.A user has to enter the required details so that he can enter into the game and start playing.
    
