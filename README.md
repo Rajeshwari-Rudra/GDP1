@@ -67,13 +67,13 @@ The main purpose of this treasure hunt game is to develop physical and mental fi
    The entity team has the following attributes: are TeamID as the primary key.The other attributes of this entity are TeamName,Creator,Datecreated,DatelastEdited and the username as the foreign key.
 
 ### Quest Entity:
-   This entity consists of the following attributes QuestName,designer,datecreated and datelastaccesed. A quest can be created by the user and may provide with clues inorder to reach the location.
+   This entity consists of the following attributes QuestName,designer,datecreated and datelastaccesed. A quest can be created by the user and may provide with clues inorder to reach the location.A Quest consists of any number of locations mainly small number so that it does not add extra data and does not make our application critical.
 
 ### Competition Entity:
    The competition entity has the attributes as CompetitionID as the primary key and competitionName,creator,datecreated,start and end date for the competition.The creator of the competition will specify the start and end time of the competition.
    
 ### Location Entity:
-   Attributes of the location entity are Locationnumber, Locationclue, Locationcoordinates. Locationnumber is the primary key of the entity and location coordinates will help in determining the actual location of the hunt with the help of the location coordinates.
+   Attributes of the location entity are Locationnumber, Locationclue, Locationcoordinates. Locationnumber is the primary key of the entity and location coordinates will help in determining the actual location of the hunt with the help of the location coordinates.The location in the quest is mainly identified by means of the latitudes and longitudes values.
  
 ### Player Entity:
    A registerd user will act as a player and he can be part of any number of teams.A player entity has the following attributes such as playernickname and points scored.Points  will determined when the player reaches the location based on the clue provided.
@@ -153,36 +153,43 @@ The main purpose of this treasure hunt game is to develop physical and mental fi
 - As a user, a player can invite to competition a week before and each team captain can accept or reject invitation.
 ## Acceptance Criteria:
 - I(Raju) will take this task and keep this option in the application and keep this for limited time so that the user can accept/ reject before starting of competition.
-
-# Sprint 3:
 ## User story-13
+- As a user,a player can check his/her leader-board position in gaming app.
+## Acceptance Criteria:
+- I(Rajeshwari) will handle this task and update the position of each player in leader-board based on his/her updated scores.
+## User story-14
+- As a user,a player can be active and doesn't participate in gaming app for a longer period of time then his/her account will be deleted automatically.
+## Acceptance Criteria:
+- I(Rajeshwari) will check and update this data from time-to-time.
+# Sprint 3:
+## User story-15
 - As a team, we need to work on risks and assumptions.
 ## Acceptance Criteria:
 - I(Rohith) being a Senior developer, will take this task and with my team will work on assumptions and risks.
-## User story-14
+## User story-16
 - As a user, a gamer can check his level and statistics based on the previous performance.
 ## Acceptance Criteria:
 - I(Puneeth) will take on this role and I will make sure that the players results and statistics are kept.
-## User story-15
+## User story-17
 - As a user, a gamer can exit the game at any point in time and cannot resume at the same moment.
 ## Acceptance Criteria:
 - I(Vishal) will take this task and make sure of developing the application such that the user can have this option.
-## User story-16
+## User story-18
 - As a developer, I want to organize my work by providing exquisite sketches for the app on how it resembles.
 ## Acceptance Criteria:
 - I(Chandrakanth) being a UI Developer, will take this task and make sure of providing the sketches for the app as client needs it.
 
 
 # Sprint 4 (This will be scheduled for GDP2):
-## User story-17
+## User story-19
 - As a team, they will check if all the criteria are successfully be satisfied mentioned in previous sprints. 
 ## Acceptance Criteria:
 - I(Rajeshwari) being the Team Manager, I will check all the criteria and make sure everything is satisfied as mentioned in the previous sprints.
-## User story-18
+## User story-20
 - As a team, they need to test the application and have to provide the bugs to the developers.
 ## Acceptance Criteria:
 - I(Puneeth) being the QA Analyst, I 'm going to take on this role and run all the tests on the application and provide the bugs and check the application for proper functioning.
-## User story-19
+## User story-21
 - As a team, they need to deploy the app and expand to production.
 ## Acceptance Criteria:
 - I(Raju) will take up this task and with my team we will deploy the application and make sure it will work properly.
@@ -191,7 +198,13 @@ The main purpose of this treasure hunt game is to develop physical and mental fi
 ## Flow chart of the Application
 ![Flow](Images/Flow.PNG)
 
-# App Screens
+# App Screens:
+   Welcome screen:
+      This screen will have both options for Admin and user. Admin has all the previlages to access the settings  of the application.If the person clicks on user then it will ask for username and password.If the person is not registered then he has to sign up for the account.Here we also have the option on how to play.
+   
+   Username Screen:
+         This screen will have various options like username and password and confirm password.A user has to enter the required details so that he can enter into the game and start playing.
+   
 ![WelcomeScreen](AppImages/WelcomeScreen.png)
 ![FirstScreen](AppImages/FirstScreen.png)
 ![RegisterScreen](AppImages/RegisterScreen.png)
@@ -201,11 +214,15 @@ The main purpose of this treasure hunt game is to develop physical and mental fi
 ![AdminPrivilegesScreen](AppImages/AdminPrivileges.png)
 ![UserPrivilegesScreen](AppImages/UserPrivileges.png))
 
+# Shedule Management For the Project
+![ScheduleManagement](Images/ScheduleManagement.PNG)
+
 # Cost Estimation For the Project
 ![CostEstimation](Images/CostEstimate.PNG)
 
-# Shedule Management For the Project
-![ScheduleManagement](Images/ScheduleManagement.PNG)
+- The required developers for this application is 6.
+- The team cost per hour is $340.
+- The cost estimated to develop this project is $244,800.
 
 # Drawbacks that can occur
 
@@ -216,5 +233,5 @@ The main purpose of this treasure hunt game is to develop physical and mental fi
 
 # Player Won:
 
-Within the stipulated time player who scores maximum points while reaching maximum locations in less time is considered to be winner.This can be concluded from the sample data entered into player entity.
+Within the stipulated time player who scores maximum points while reaching maximum locations in less time is considered to be winner.This can be concluded from the sample data entered into player entity.A team that scores maximum number of points within the given time will be declared as winner.
 
